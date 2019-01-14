@@ -1,0 +1,1 @@
+-splash:src/assets/images/let-it-wag.gif

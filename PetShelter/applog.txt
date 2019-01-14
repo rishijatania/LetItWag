@@ -1,0 +1,476 @@
+INFO    2018-12-10 16:19:28,399 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 16:19:28,400 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 16:20:15,660 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 16:20:15,661 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 16:21:15,039 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 16:21:15,040 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 16:21:22,533 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 16:21:22,533 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 16:21:26,814 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 16:25:32,347 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 16:25:32,347 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 16:25:34,048 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 16:26:31,301 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 16:26:31,302 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 16:26:33,219 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 16:26:44,851 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 16:26:44,853 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 16:26:46,738 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 16:26:56,685 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 16:26:56,686 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 16:26:58,431 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 16:27:06,544 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 16:27:06,545 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 16:27:07,994 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 16:27:58,536 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - anuj user signed up successfully and email sent to ltalreja@gmail.com
+INFO    2018-12-10 16:28:08,490 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 16:28:45,709 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 16:28:45,710 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 16:28:47,382 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 16:29:19,435 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 16:29:19,436 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 16:29:21,187 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 16:29:35,942 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 16:29:35,943 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 16:29:37,352 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 16:30:18,441 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 16:30:18,442 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 16:30:20,651 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 16:30:31,074 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 16:31:04,059 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 16:31:04,060 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 16:31:07,103 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 16:31:13,933 [AWT-EventQueue-0] userinterface.UserRole.ReportAnimalJPanel  - Anuj Singh logged into Report Animal Panel
+INFO    2018-12-10 16:32:14,122 [AWT-EventQueue-0] userinterface.UserRole.ReportAnimalJPanel  - Anuj Singh reported an animal for rescue with reportID585
+INFO    2018-12-10 16:32:17,574 [AWT-EventQueue-0] userinterface.UserRole.StatusReportAnimalJPanel  - Anuj Singh StatusReportAnimalJPanel
+INFO    2018-12-10 16:35:50,252 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 16:35:50,253 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 16:35:53,020 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 16:36:24,383 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 16:36:24,384 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 16:36:32,297 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 16:36:33,614 [AWT-EventQueue-0] userinterface.UserRole.AdoptAPetDashboard  - Anuj Singh logged into AdoptAPetDashboard
+INFO    2018-12-10 18:20:22,029 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 18:20:22,031 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 18:20:38,895 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 18:20:45,361 [AWT-EventQueue-0] userinterface.UserRole.ReportAnimalJPanel  - Lakshit Talreja logged into Report Animal Panel
+ERROR   2018-12-10 18:20:51,264 [AWT-EventQueue-0] userinterface.UserRole.ReportAnimalJPanel  - Lakshit Talreja Invalid input in zipcode
+ERROR   2018-12-10 18:20:53,459 [AWT-EventQueue-0] userinterface.UserRole.ReportAnimalJPanel  - Lakshit Talreja Invalid input in zipcode
+ERROR   2018-12-10 18:20:58,404 [AWT-EventQueue-0] userinterface.UserRole.ReportAnimalJPanel  - Lakshit Talreja Please enter mandatory fields
+ERROR   2018-12-10 18:21:02,706 [AWT-EventQueue-0] userinterface.UserRole.ReportAnimalJPanel  - Lakshit Talreja Please enter mandatory fields
+ERROR   2018-12-10 18:21:07,823 [AWT-EventQueue-0] userinterface.UserRole.ReportAnimalJPanel  - Lakshit Talreja Please enter mandatory fields
+INFO    2018-12-10 18:21:44,776 [AWT-EventQueue-0] userinterface.UserRole.ReportAnimalJPanel  - Lakshit Talreja reported an animal for rescue with reportID807
+ERROR   2018-12-10 18:21:49,605 [AWT-EventQueue-0] userinterface.UserRole.ReportAnimalJPanel  - Lakshit Talreja Please enter mandatory fields
+INFO    2018-12-10 18:21:59,512 [AWT-EventQueue-0] userinterface.UserRole.ReportAnimalJPanel  - Lakshit Talreja reported an animal for rescue with reportID807
+INFO    2018-12-10 18:22:13,524 [AWT-EventQueue-0] userinterface.UserRole.ReportAnimalJPanel  - Lakshit Talreja reported an animal for rescue with reportID807
+INFO    2018-12-10 18:22:16,120 [AWT-EventQueue-0] userinterface.UserRole.StatusReportAnimalJPanel  - Lakshit Talreja logged into StatusReportAnimalJPanel
+INFO    2018-12-10 18:26:47,587 [AWT-EventQueue-0] userinterface.UserRole.ReportAnimalJPanel  - Lakshit Talreja logged into Report Animal Panel
+INFO    2018-12-10 18:34:11,098 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 18:34:11,099 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 18:34:15,165 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 18:34:19,885 [AWT-EventQueue-0] userinterface.UserRole.ReportAnimalJPanel  - Lakshit Talreja logged into Report Animal Panel
+INFO    2018-12-10 18:34:28,527 [AWT-EventQueue-0] userinterface.UserRole.ReportAnimalJPanel  - Lakshit Talreja reported an animal for rescue with reportID728
+INFO    2018-12-10 18:35:26,128 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 18:35:26,129 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 18:35:29,837 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 18:35:31,159 [AWT-EventQueue-0] userinterface.UserRole.StatusReportAnimalJPanel  - Lakshit Talreja logged into StatusReportAnimalJPanel
+INFO    2018-12-10 18:35:34,110 [AWT-EventQueue-0] userinterface.UserRole.AdoptAPetDashboard  - Lakshit Talreja logged into AdoptAPetDashboard
+INFO    2018-12-10 18:35:38,070 [AWT-EventQueue-0] userinterface.UserRole.StatusReportAnimalJPanel  - Lakshit Talreja logged into StatusReportAnimalJPanel
+INFO    2018-12-10 18:38:37,464 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 18:38:37,465 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 18:40:40,986 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden logged into WorkAreaJPanel
+INFO    2018-12-10 18:40:42,097 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Dashboard JButton
+ERROR   2018-12-10 18:40:57,184 [AWT-EventQueue-0] userinterface.WardenRole.WardenDashBoardJPanel  -  Please assign request first! 
+INFO    2018-12-10 18:41:48,674 [AWT-EventQueue-0] userinterface.WardenRole.AssignFieldWorkerJPanel  - 807 assigned to field worker shelter1fldwrker
+INFO    2018-12-10 18:42:45,777 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Dashboard JButton
+INFO    2018-12-10 18:45:30,394 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 18:45:30,395 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 18:45:35,927 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden logged into WorkAreaJPanel
+INFO    2018-12-10 18:45:37,185 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Dashboard JButton
+INFO    2018-12-10 18:45:46,201 [AWT-EventQueue-0] userinterface.WardenRole.AssignFieldWorkerJPanel  - 807 assigned to field worker shelter1fldwrker
+ERROR   2018-12-10 18:46:40,190 [AWT-EventQueue-0] userinterface.WardenRole.WardenDashBoardJPanel  -  Please assign request first! 
+INFO    2018-12-10 18:52:03,861 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 18:52:03,864 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 18:52:10,785 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden logged into WorkAreaJPanel
+INFO    2018-12-10 18:52:13,209 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Dashboard JButton
+INFO    2018-12-10 18:53:08,025 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 18:53:08,026 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 18:53:14,068 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden logged into WorkAreaJPanel
+INFO    2018-12-10 18:53:15,457 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Dashboard JButton
+INFO    2018-12-10 18:53:20,153 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Dashboard JButton
+INFO    2018-12-10 18:53:52,280 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 18:53:52,281 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 18:53:57,519 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden logged into WorkAreaJPanel
+INFO    2018-12-10 18:53:58,681 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Dashboard JButton
+INFO    2018-12-10 18:54:15,390 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 18:54:15,392 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 18:54:24,228 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden logged into WorkAreaJPanel
+INFO    2018-12-10 18:54:25,296 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Dashboard JButton
+INFO    2018-12-10 18:54:32,256 [AWT-EventQueue-0] userinterface.WardenRole.AssignFieldWorkerJPanel  - 807 assigned to field worker shelter1fldwrker
+INFO    2018-12-10 19:15:50,837 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 19:15:50,838 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 19:15:54,451 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 19:17:13,711 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - a user signed up successfully and email sent to a@a.com
+INFO    2018-12-10 19:19:29,416 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 19:19:29,417 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 19:19:32,331 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 19:20:43,523 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 19:20:43,525 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 19:20:45,522 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 19:23:24,846 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 19:23:24,848 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 19:23:27,892 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 19:23:55,842 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  -   user signed up successfully and email sent to  
+INFO    2018-12-10 19:25:36,757 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 19:25:36,759 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 19:25:40,019 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 19:26:00,160 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  -   user signed up successfully and email sent to  
+INFO    2018-12-10 19:26:19,698 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 19:26:19,699 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 19:26:22,171 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 19:26:43,576 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - ahaha user signed up successfully and email sent to a@a.com
+INFO    2018-12-10 19:27:05,935 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 19:27:05,937 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 19:27:17,504 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 19:27:23,381 [AWT-EventQueue-0] userinterface.UserRole.ReportAnimalJPanel  - Lakshit Talreja logged into Report Animal Panel
+ERROR   2018-12-10 19:27:26,933 [AWT-EventQueue-0] userinterface.UserRole.ReportAnimalJPanel  - Lakshit Talreja Invalid input in zipcode
+ERROR   2018-12-10 19:28:11,917 [AWT-EventQueue-0] userinterface.UserRole.ReportAnimalJPanel  - Lakshit Talreja Please enter mandatory fields
+ERROR   2018-12-10 19:28:18,966 [AWT-EventQueue-0] userinterface.UserRole.ReportAnimalJPanel  - Lakshit Talreja Please enter mandatory fields
+INFO    2018-12-10 19:28:50,557 [AWT-EventQueue-0] userinterface.UserRole.ReportAnimalJPanel  - Lakshit Talreja reported an animal for rescue with reportID717
+INFO    2018-12-10 19:28:51,893 [AWT-EventQueue-0] userinterface.UserRole.StatusReportAnimalJPanel  - Lakshit Talreja logged into StatusReportAnimalJPanel
+INFO    2018-12-10 19:28:56,960 [AWT-EventQueue-0] userinterface.UserRole.StatusReportAnimalJPanel  - Lakshit Talreja logged into StatusReportAnimalJPanel
+INFO    2018-12-10 19:28:58,438 [AWT-EventQueue-0] userinterface.UserRole.AdoptAPetDashboard  - Lakshit Talreja logged into AdoptAPetDashboard
+INFO    2018-12-10 19:32:02,675 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 19:32:02,677 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 19:36:53,767 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 19:36:53,768 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 19:37:33,547 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden logged into WorkAreaJPanel
+INFO    2018-12-10 19:37:34,704 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Dashboard JButton
+ERROR   2018-12-10 19:37:42,769 [AWT-EventQueue-0] userinterface.WardenRole.WardenDashBoardJPanel  -  Please assign request first! 
+INFO    2018-12-10 19:42:04,761 [AWT-EventQueue-0] userinterface.WardenRole.AssignFieldWorkerJPanel  - 807 assigned to field worker shelter1fldwrker
+INFO    2018-12-10 19:42:25,839 [AWT-EventQueue-0] userinterface.WardenRole.AssignFieldWorkerJPanel  - 807 assigned to field worker shelter1fldwrker
+INFO    2018-12-10 19:42:38,968 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 19:42:38,970 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 19:42:45,546 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden logged into WorkAreaJPanel
+INFO    2018-12-10 19:42:47,368 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Dashboard JButton
+ERROR   2018-12-10 19:42:53,896 [AWT-EventQueue-0] userinterface.WardenRole.WardenDashBoardJPanel  -  Please assign request first! 
+ERROR   2018-12-10 19:42:57,082 [AWT-EventQueue-0] userinterface.WardenRole.WardenDashBoardJPanel  -  Please assign request first! 
+ERROR   2018-12-10 19:43:00,535 [AWT-EventQueue-0] userinterface.WardenRole.WardenDashBoardJPanel  -  Please assign request first! 
+INFO    2018-12-10 19:44:53,771 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 19:44:53,772 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 19:45:00,359 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden logged into WorkAreaJPanel
+INFO    2018-12-10 19:45:01,416 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Dashboard JButton
+ERROR   2018-12-10 19:45:04,209 [AWT-EventQueue-0] userinterface.WardenRole.WardenDashBoardJPanel  - Request already processed/assigned! 
+INFO    2018-12-10 19:45:24,878 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden logged into WorkAreaJPanel
+INFO    2018-12-10 19:45:25,783 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Request for Supplies JButton
+INFO    2018-12-10 19:48:17,724 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden logged into WorkAreaJPanel
+INFO    2018-12-10 19:48:18,902 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Dashboard JButton
+INFO    2018-12-10 19:51:37,553 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 19:51:37,556 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 19:53:13,056 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 19:53:13,058 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 19:53:39,456 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 19:53:39,457 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 20:03:01,945 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 20:03:01,946 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 20:05:53,468 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 20:05:53,469 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 20:07:50,938 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 20:07:50,938 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 20:08:14,169 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 20:08:14,170 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 20:08:29,737 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 20:08:29,738 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 20:14:33,748 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 20:14:33,749 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 20:18:32,101 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 20:18:32,102 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 20:19:38,009 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 20:19:38,010 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 20:20:04,651 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 20:20:04,652 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 20:27:12,204 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 20:27:12,205 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 20:28:48,696 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 20:28:48,697 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 20:30:26,347 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 20:30:26,348 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 20:31:09,904 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 20:31:09,905 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 20:31:37,466 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 20:31:37,467 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 20:31:48,069 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 20:31:48,070 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 20:32:23,172 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 20:32:23,173 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 20:33:27,953 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 20:33:27,954 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 20:34:46,330 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 20:34:46,331 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 20:36:51,162 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 20:36:51,163 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 20:37:51,465 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 20:37:51,466 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 20:38:59,257 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden logged into WorkAreaJPanel
+INFO    2018-12-10 20:39:00,406 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Dashboard JButton
+INFO    2018-12-10 20:39:39,654 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden logged into WorkAreaJPanel
+INFO    2018-12-10 20:39:40,693 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Dashboard JButton
+INFO    2018-12-10 20:43:34,699 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 20:43:34,700 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 20:43:58,370 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden logged into WorkAreaJPanel
+INFO    2018-12-10 20:43:58,876 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Dashboard JButton
+INFO    2018-12-10 20:44:53,204 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 20:44:53,205 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 20:45:03,755 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden logged into WorkAreaJPanel
+INFO    2018-12-10 20:45:04,533 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Dashboard JButton
+INFO    2018-12-10 20:47:03,261 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 20:47:03,262 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 20:47:11,998 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden logged into WorkAreaJPanel
+INFO    2018-12-10 20:47:12,956 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Dashboard JButton
+ERROR   2018-12-10 20:47:19,832 [AWT-EventQueue-0] userinterface.WardenRole.WardenDashBoardJPanel  -  Please assign request first! 
+INFO    2018-12-10 20:48:08,693 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 20:48:08,694 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 20:48:13,952 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden logged into WorkAreaJPanel
+INFO    2018-12-10 20:48:14,996 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Dashboard JButton
+ERROR   2018-12-10 20:48:20,876 [AWT-EventQueue-0] userinterface.WardenRole.WardenDashBoardJPanel  -  Please assign request first! 
+INFO    2018-12-10 20:49:00,652 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Dashboard JButton
+ERROR   2018-12-10 20:49:11,166 [AWT-EventQueue-0] userinterface.WardenRole.WardenDashBoardJPanel  -  Please assign request first! 
+INFO    2018-12-10 20:49:50,741 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Dashboard JButton
+INFO    2018-12-10 20:55:54,273 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 20:55:54,275 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 20:56:00,213 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden logged into WorkAreaJPanel
+INFO    2018-12-10 20:56:01,204 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Dashboard JButton
+INFO    2018-12-10 21:02:59,076 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 21:02:59,077 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 21:03:12,095 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden logged into WorkAreaJPanel
+INFO    2018-12-10 21:03:14,261 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Dashboard JButton
+INFO    2018-12-10 21:04:00,283 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 21:04:00,284 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 21:04:23,661 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 21:04:23,662 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 21:04:36,656 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden logged into WorkAreaJPanel
+INFO    2018-12-10 21:04:37,708 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Dashboard JButton
+ERROR   2018-12-10 21:04:44,453 [AWT-EventQueue-0] userinterface.WardenRole.WardenDashBoardJPanel  -  Please assign request first! 
+INFO    2018-12-10 21:06:17,119 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 21:06:17,120 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 21:06:25,261 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden logged into WorkAreaJPanel
+INFO    2018-12-10 21:06:26,340 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Dashboard JButton
+INFO    2018-12-10 21:06:38,043 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Request for Supplies JButton
+INFO    2018-12-10 21:07:25,115 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 21:07:25,116 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 21:10:22,564 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 21:10:22,566 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 21:10:53,773 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 21:10:53,774 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 21:11:28,955 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 21:11:28,955 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 21:23:32,981 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 21:23:32,982 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 21:28:03,470 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 21:28:03,471 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 21:28:22,653 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 21:28:22,654 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 21:32:43,419 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 21:32:43,419 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 21:42:56,997 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 21:42:56,999 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 21:45:53,786 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 21:45:53,787 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 21:46:39,056 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden logged into WorkAreaJPanel
+INFO    2018-12-10 21:46:41,138 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Dashboard JButton
+INFO    2018-12-10 21:49:23,477 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden logged into WorkAreaJPanel
+INFO    2018-12-10 21:49:24,633 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Dashboard JButton
+ERROR   2018-12-10 21:49:33,779 [AWT-EventQueue-0] userinterface.WardenRole.WardenDashBoardJPanel  -  Please assign request first! 
+ERROR   2018-12-10 21:54:29,048 [AWT-EventQueue-0] userinterface.WardenRole.WardenDashBoardJPanel  -  Please assign request first! 
+ERROR   2018-12-10 21:55:05,117 [AWT-EventQueue-0] userinterface.WardenRole.WardenDashBoardJPanel  -  Please assign request first! 
+ERROR   2018-12-10 21:55:38,197 [AWT-EventQueue-0] userinterface.WardenRole.WardenDashBoardJPanel  -  Please assign request first! 
+ERROR   2018-12-10 21:56:02,773 [AWT-EventQueue-0] userinterface.WardenRole.WardenDashBoardJPanel  -  Please assign request first! 
+INFO    2018-12-10 21:56:47,198 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 21:56:47,198 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 21:57:53,897 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 21:57:53,898 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 21:58:02,777 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden logged into WorkAreaJPanel
+INFO    2018-12-10 21:58:04,834 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Dashboard JButton
+INFO    2018-12-10 21:58:53,674 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Request for Supplies JButton
+INFO    2018-12-10 21:58:57,619 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Dashboard JButton
+INFO    2018-12-10 22:02:24,846 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 22:02:24,847 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 22:03:09,946 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 22:03:09,947 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 22:05:33,884 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 22:05:33,885 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 22:06:05,094 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 22:06:05,095 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 22:06:32,562 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 22:06:32,563 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 22:07:13,372 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 22:07:13,373 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 22:09:59,093 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 22:09:59,093 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 22:13:37,873 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 22:13:37,874 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 22:14:15,864 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 22:14:15,865 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 22:15:35,585 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 22:15:35,586 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 22:16:12,962 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 22:16:14,407 [AWT-EventQueue-0] userinterface.UserRole.StatusReportAnimalJPanel  - Lakshit Talreja logged into StatusReportAnimalJPanel
+INFO    2018-12-10 22:16:16,128 [AWT-EventQueue-0] userinterface.UserRole.AdoptAPetDashboard  - Lakshit Talreja logged into AdoptAPetDashboard
+INFO    2018-12-10 22:16:28,155 [AWT-EventQueue-0] userinterface.UserRole.AdoptAPetDashboard  - Lakshit Talreja logged into AdoptAPetDashboard
+INFO    2018-12-10 22:17:56,392 [AWT-EventQueue-0] userinterface.UserRole.AdoptAPetDashboard  - Lakshit Talreja logged into AdoptAPetDashboard
+INFO    2018-12-10 22:19:21,869 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 22:19:21,870 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 22:19:24,838 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 22:19:26,145 [AWT-EventQueue-0] userinterface.UserRole.AdoptAPetDashboard  - Lakshit Talreja logged into AdoptAPetDashboard
+INFO    2018-12-10 22:20:08,730 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 22:20:08,731 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 22:20:12,116 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 22:20:13,411 [AWT-EventQueue-0] userinterface.UserRole.AdoptAPetDashboard  - Lakshit Talreja logged into AdoptAPetDashboard
+INFO    2018-12-10 22:22:13,067 [AWT-EventQueue-0] userinterface.UserRole.AdoptAPetDashboard  - Lakshit Talreja requested for adoption
+INFO    2018-12-10 22:23:09,199 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 22:23:09,200 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 22:23:16,989 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 22:23:16,990 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 22:23:23,790 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 22:23:24,995 [AWT-EventQueue-0] userinterface.UserRole.AdoptAPetDashboard  - Lakshit Talreja logged into AdoptAPetDashboard
+INFO    2018-12-10 22:23:30,048 [AWT-EventQueue-0] userinterface.UserRole.AdoptAPetDashboard  - Lakshit Talreja requested for adoption
+INFO    2018-12-10 22:23:50,041 [AWT-EventQueue-0] userinterface.UserRole.AdoptAPetDashboard  - Lakshit Talreja requested for adoption
+INFO    2018-12-10 22:25:44,844 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 22:25:44,845 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 22:25:49,513 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 22:25:50,762 [AWT-EventQueue-0] userinterface.UserRole.AdoptAPetDashboard  - Lakshit Talreja logged into AdoptAPetDashboard
+INFO    2018-12-10 22:27:55,681 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 22:27:56,986 [AWT-EventQueue-0] userinterface.UserRole.AdoptAPetDashboard  - Anuj Singh logged into AdoptAPetDashboard
+INFO    2018-12-10 22:28:31,862 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 22:28:31,863 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 22:28:47,707 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 22:28:48,837 [AWT-EventQueue-0] userinterface.UserRole.AdoptAPetDashboard  - Anuj Singh logged into AdoptAPetDashboard
+INFO    2018-12-10 22:34:10,635 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 22:34:10,636 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 22:34:25,595 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 22:34:27,461 [AWT-EventQueue-0] userinterface.UserRole.AdoptAPetDashboard  - Lakshit Talreja logged into AdoptAPetDashboard
+ERROR   2018-12-10 22:34:51,954 [AWT-EventQueue-0] userinterface.UserRole.AdoptAPetDashboard  - Lakshit Talreja Please select a row from pets Available for adoption table
+INFO    2018-12-10 22:40:28,777 [AWT-EventQueue-0] userinterface.UserRole.AdoptAPetDashboard  - Lakshit Talreja requested for adoption
+INFO    2018-12-10 22:41:47,410 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 22:41:47,411 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 22:42:13,201 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 22:42:15,061 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 22:42:16,179 [AWT-EventQueue-0] userinterface.UserRole.AdoptAPetDashboard  - Lakshit Talreja logged into AdoptAPetDashboard
+INFO    2018-12-10 22:42:35,381 [AWT-EventQueue-0] userinterface.UserRole.AdoptAPetDashboard  - Lakshit Talreja requested for adoption
+INFO    2018-12-10 22:46:06,226 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden logged into WorkAreaJPanel
+INFO    2018-12-10 22:46:07,761 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Dashboard JButton
+INFO    2018-12-10 22:49:27,642 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 22:49:27,643 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 22:50:13,885 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden logged into WorkAreaJPanel
+INFO    2018-12-10 22:50:15,048 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden clicked on Dashboard JButton
+ERROR   2018-12-10 22:50:27,207 [AWT-EventQueue-0] userinterface.WardenRole.WardenDashBoardJPanel  - Request already processed/assigned! 
+ERROR   2018-12-10 22:50:42,167 [AWT-EventQueue-0] userinterface.WardenRole.WardenDashBoardJPanel  - Request already processed/assigned! 
+ERROR   2018-12-10 22:51:12,013 [AWT-EventQueue-0] userinterface.WardenRole.WardenDashBoardJPanel  - Request already processed/assigned! 
+INFO    2018-12-10 22:53:23,023 [AWT-EventQueue-0] userinterface.WardenRole.AssignFieldWorkerJPanel  - null assigned to field worker shelter1fldwrker
+INFO    2018-12-10 23:01:54,639 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 23:01:54,640 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 23:02:59,316 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 23:03:19,359 [AWT-EventQueue-0] userinterface.UserRole.ReportAnimalJPanel  - Lakshit Talreja logged into Report Animal Panel
+INFO    2018-12-10 23:03:40,962 [AWT-EventQueue-0] userinterface.UserRole.ReportAnimalJPanel  - Lakshit Talreja reported an animal for rescue with reportID296
+INFO    2018-12-10 23:03:52,692 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - shelter1warden Warden logged into WorkAreaJPanel
+INFO    2018-12-10 23:13:07,432 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 23:13:07,433 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 23:14:46,548 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - mshelterw Warden logged into WorkAreaJPanel
+INFO    2018-12-10 23:14:47,879 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - mshelterw Warden clicked on Dashboard JButton
+INFO    2018-12-10 23:14:57,951 [AWT-EventQueue-0] userinterface.WardenRole.AssignFieldWorkerJPanel  - 296 assigned to field worker mshelterf
+INFO    2018-12-10 23:17:02,264 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 23:17:02,265 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 23:18:34,880 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 23:18:34,881 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 23:19:56,788 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 23:19:56,789 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 23:20:02,654 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 23:20:02,655 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 23:21:23,156 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 23:21:24,559 [AWT-EventQueue-0] userinterface.UserRole.AdoptAPetDashboard  - Lakshit Talreja logged into AdoptAPetDashboard
+INFO    2018-12-10 23:22:33,765 [AWT-EventQueue-0] userinterface.UserRole.AdoptAPetDashboard  - Lakshit Talreja requested for adoption
+INFO    2018-12-10 23:23:09,663 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - mshelterw Warden logged into WorkAreaJPanel
+INFO    2018-12-10 23:23:11,143 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - mshelterw Warden clicked on Dashboard JButton
+INFO    2018-12-10 23:23:43,337 [AWT-EventQueue-0] userinterface.WardenRole.WardenDashBoardJPanel  -  Request has been raised mshelterw
+INFO    2018-12-10 23:34:29,027 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 23:34:29,027 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 23:35:06,318 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 23:35:06,319 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 23:37:34,680 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-10 23:37:36,432 [AWT-EventQueue-0] userinterface.UserRole.AdoptAPetDashboard  - Lakshit Talreja logged into AdoptAPetDashboard
+INFO    2018-12-10 23:38:13,396 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - mshelterw Warden logged into WorkAreaJPanel
+INFO    2018-12-10 23:38:14,271 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - mshelterw Warden clicked on Dashboard JButton
+INFO    2018-12-10 23:52:59,667 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 23:52:59,668 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 23:53:08,010 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - dwight Warden logged into WorkAreaJPanel
+INFO    2018-12-10 23:59:44,779 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-10 23:59:44,780 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-10 23:59:49,440 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - dwight Warden logged into WorkAreaJPanel
+INFO    2018-12-11 00:00:33,303 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-11 00:00:33,304 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-11 00:01:29,794 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-11 00:01:29,795 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-11 00:02:06,347 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-11 00:02:06,351 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-11 14:12:39,355 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-11 14:12:39,357 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-11 14:12:46,840 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-11 14:14:14,272 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - ltalreja user signed up successfully and email sent to ltalrejaa@gmail.com
+INFO    2018-12-11 14:14:24,338 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-11 14:14:28,901 [AWT-EventQueue-0] userinterface.UserRole.ReportAnimalJPanel  - Lakshit logged into Report Animal Panel
+INFO    2018-12-11 14:16:02,970 [AWT-EventQueue-0] userinterface.UserRole.ReportAnimalJPanel  - Lakshit reported an animal for rescue with reportID760
+INFO    2018-12-11 14:16:05,271 [AWT-EventQueue-0] userinterface.UserRole.ReportAnimalJPanel  - Lakshit logged into Report Animal Panel
+ERROR   2018-12-11 14:16:08,269 [AWT-EventQueue-0] userinterface.UserRole.ReportAnimalJPanel  - Lakshit Invalid input in zipcode
+INFO    2018-12-11 14:16:12,503 [AWT-EventQueue-0] userinterface.UserRole.StatusReportAnimalJPanel  - Lakshit logged into StatusReportAnimalJPanel
+INFO    2018-12-11 14:54:55,771 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-11 14:54:55,773 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-11 14:56:13,481 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-11 14:56:13,482 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-11 15:00:16,336 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-11 15:00:16,338 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-11 15:12:25,664 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-11 15:12:25,666 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-11 15:12:32,488 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-11 16:21:29,935 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-11 16:21:29,939 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-11 17:12:18,764 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2018-12-11 17:12:18,768 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
+INFO    2018-12-11 17:12:33,203 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-11 17:13:04,231 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - lakshit user signed up successfully and email sent to ltalreja@gmail.com
+INFO    2018-12-11 17:13:23,309 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-11 17:13:32,938 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-11 17:13:41,051 [AWT-EventQueue-0] userinterface.UserRole.ReportAnimalJPanel  - Lakshit logged into Report Animal Panel
+INFO    2018-12-11 17:14:16,864 [AWT-EventQueue-0] userinterface.UserRole.ReportAnimalJPanel  - Lakshit reported an animal for rescue with reportID165
+INFO    2018-12-11 17:14:23,716 [AWT-EventQueue-0] userinterface.UserRole.StatusReportAnimalJPanel  - Lakshit logged into StatusReportAnimalJPanel
+INFO    2018-12-11 17:15:50,996 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - dwight Warden logged into WorkAreaJPanel
+INFO    2018-12-11 17:15:53,358 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - dwight Warden clicked on Dashboard JButton
+ERROR   2018-12-11 17:16:03,252 [AWT-EventQueue-0] userinterface.WardenRole.WardenDashBoardJPanel  - Request already processed/assigned! 
+INFO    2018-12-11 17:16:21,680 [AWT-EventQueue-0] userinterface.WardenRole.AssignFieldWorkerJPanel  - 165 assigned to field worker edgar
+INFO    2018-12-11 17:18:03,036 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-11 17:18:05,235 [AWT-EventQueue-0] userinterface.UserRole.AdoptAPetDashboard  - Lakshit logged into AdoptAPetDashboard
+INFO    2018-12-11 17:18:34,407 [AWT-EventQueue-0] userinterface.UserRole.AdoptAPetDashboard  - Lakshit requested for adoption
+INFO    2018-12-11 17:18:37,214 [AWT-EventQueue-0] userinterface.UserRole.AdoptAPetDashboard  - Lakshit requested for adoption
+INFO    2018-12-11 17:19:07,361 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - dwight Warden logged into WorkAreaJPanel
+INFO    2018-12-11 17:19:09,290 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - dwight Warden clicked on Dashboard JButton
+INFO    2018-12-11 17:19:43,884 [AWT-EventQueue-0] userinterface.WardenRole.WardenDashBoardJPanel  -  Request has been raised dwight
+INFO    2018-12-11 17:20:02,062 [AWT-EventQueue-0] userinterface.WardenRole.WardenDashBoardJPanel  -  Request has been raised dwight
+INFO    2018-12-11 17:20:22,601 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - dwight Warden logged into WorkAreaJPanel
+INFO    2018-12-11 17:20:23,695 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - dwight Warden clicked on Dashboard JButton
+INFO    2018-12-11 17:22:20,567 [AWT-EventQueue-0] userinterface.UserRole.UserWorkAreaJPanel  - User logged into UserWorkAreaJPanel
+INFO    2018-12-11 17:22:22,255 [AWT-EventQueue-0] userinterface.UserRole.AdoptAPetDashboard  - Lakshit logged into AdoptAPetDashboard
+INFO    2018-12-11 17:25:05,181 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - dwight Warden logged into WorkAreaJPanel
+INFO    2018-12-11 17:25:06,930 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - dwight Warden clicked on Request for Supplies JButton
+INFO    2018-12-11 17:25:29,039 [AWT-EventQueue-0] userinterface.WardenRole.SupplyRequestJPanel  -  Supply WorkOrder requested for Approval
+INFO    2018-12-11 17:25:30,776 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - dwight Warden clicked on Request for Supplies JButton
+INFO    2018-12-11 17:30:51,501 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - dwight Warden logged into WorkAreaJPanel
+INFO    2018-12-11 17:30:53,180 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - dwight Warden clicked on Request for Supplies JButton
+INFO    2018-12-11 17:31:00,281 [AWT-EventQueue-0] userinterface.WardenRole.SupplyRequestJPanel  -  Populating the status for Supply WorkOrder
+INFO    2018-12-11 17:31:01,310 [AWT-EventQueue-0] userinterface.WardenRole.SupplyRequestJPanel  -  Proceeding to place a new order
+INFO    2018-12-11 17:31:10,891 [AWT-EventQueue-0] userinterface.WardenRole.PlaceOrderJPanel  - Initiated request to Supplier
+INFO    2018-12-11 17:35:10,726 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - dwight Warden logged into WorkAreaJPanel
+INFO    2018-12-11 17:35:12,242 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - dwight Warden clicked on Request for Supplies JButton
+INFO    2018-12-11 17:35:16,042 [AWT-EventQueue-0] userinterface.WardenRole.SupplyRequestJPanel  -  Populating the status for Supply WorkOrder
+INFO    2018-12-11 17:37:33,594 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - dwight Warden logged into WorkAreaJPanel
+INFO    2018-12-11 17:37:35,426 [AWT-EventQueue-0] userinterface.WardenRole.WardenWorkAreaJPanel  - dwight Warden clicked on Dashboard JButton
+INFO    2019-01-12 20:46:54,989 [AWT-EventQueue-0] userinterface.MainJFrame  - Log4j Started
+INFO    2019-01-12 20:46:54,992 [AWT-EventQueue-0] userinterface.MainJFrame  - MainJFrame initialized
